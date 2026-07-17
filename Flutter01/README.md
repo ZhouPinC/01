@@ -31,5 +31,5 @@ flutter run
 
 | 项目 | 说明 |
 |------|------|
-| [Test251204](https://github.com/ZhouPinC/Test251204) | Kotlin Android 端波形组件测试原型 |
+| [VoiceWave-Android](https://github.com/ZhouPinC/VoiceWave-Android) | Kotlin Android 端波形组件测试原型 |
 | [ZPC](https://github.com/ZhouPinC/ZPC) | Java Android 端录音机成品（含 AudioWaveformView） |
